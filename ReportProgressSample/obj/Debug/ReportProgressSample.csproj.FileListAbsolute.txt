@@ -1,0 +1,15 @@
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\bin\Debug\ReportProgressSample.exe.config
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\bin\Debug\ReportProgressSample.exe
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\bin\Debug\ReportProgressSample.pdb
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\ReportProgressSample.csprojAssemblyReference.cache
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\MainWindow.g.cs
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\App.g.cs
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\ReportProgressSample_MarkupCompile.cache
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\ReportProgressSample_MarkupCompile.lref
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\MainWindow.baml
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\ReportProgressSample.g.resources
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\ReportProgressSample.Properties.Resources.resources
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\ReportProgressSample.csproj.GenerateResource.cache
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\ReportProgressSample.csproj.CoreCompileInputs.cache
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\ReportProgressSample.exe
+C:\Users\romag\source\repos\ReportProgressSample\ReportProgressSample\obj\Debug\ReportProgressSample.pdb
