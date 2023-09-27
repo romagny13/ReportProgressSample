@@ -15,6 +15,7 @@ namespace ReportProgressSample
 
         private async void runButton_Click(object sender, RoutedEventArgs e)
         {
+
             IProgress<int> progress = new Progress<int>(value =>
             {
                 progressBar.Value = value;
